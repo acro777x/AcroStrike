@@ -120,12 +120,12 @@ function Write-Finding {
 # ============================================================
 Write-Host ""
 Write-Host "  ================================================================" -ForegroundColor Cyan
-Write-Host "      _                    ____  _        _ _        " -ForegroundColor Cyan
-Write-Host "     / \   ___ _ __ ___  / ___|| |_ _ __(_) | _____ " -ForegroundColor Cyan
-Write-Host "    / _ \ / __| '__/ _ \ \___ \| __| '__| | |/ / _ \" -ForegroundColor Cyan
-Write-Host "   / ___ \ (__| | | (_) | ___) | |_| |  | |   <  __/" -ForegroundColor Cyan
-Write-Host "  /_/   \_\___|_|  \___/ |____/ \__|_|  |_|_|\_\___|" -ForegroundColor Cyan
-Write-Host "                                              v1.0" -ForegroundColor DarkCyan
+Write-Host "     ___                    ____  _        _ _        " -ForegroundColor Cyan
+Write-Host "    /   |  _________  _____/ __/_(_)___   (_) /_____  " -ForegroundColor Cyan
+Write-Host "   / /| | / ___/ __ \/ ___/ /_  / / / /   / / //_/ _ \ " -ForegroundColor Cyan
+Write-Host "  / ___ |/ /__/ /_/ / /  / __/ / / /_/   / / ,< /  __/ " -ForegroundColor Cyan
+Write-Host " /_/  |_|\___/\____/_/  /_/   /_/\__, / /_/_/|_|\___/  " -ForegroundColor Cyan
+Write-Host "                                /____/            v1.0" -ForegroundColor DarkCyan
 Write-Host "  ================================================================" -ForegroundColor Cyan
 Write-Host "  Target  : $TargetClean" -ForegroundColor Yellow
 Write-Host "  Output  : $OutputDir" -ForegroundColor Yellow
