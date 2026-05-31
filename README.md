@@ -22,7 +22,7 @@
 
 **A pure PowerShell vulnerability assessment and penetration testing scanner that requires zero external tools, zero dependencies, and produces zero false positives.**
 
-*Part of the [Acro Empire](https://github.com/AcroEmpire) — alongside [AcroMap](https://github.com/AcroEmpire/AcroMap) & [AcroProbe](https://github.com/AcroEmpire/AcroProbe)*
+*Part of the [Acro Empire](https://github.com/acro777x/) — alongside [AcroMap](https://github.com/acro777x/acromap) & [AcroProbe](https://github.com/acro777x/AcroProbe)*
 
 ---
 
