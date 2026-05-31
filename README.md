@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-                 _                    ____  _        _ _        
-                / \   ___ _ __ ___  / ___|| |_ _ __(_) | _____ 
-               / _ \ / __| '__/ _ \ \___ \| __| '__| | |/ / _ \
-              / ___ \ (__| | | (_) | ___) | |_| |  | |   <  __/
-             /_/   \_\___|_|  \___/ |____/ \__|_|  |_|_|\_\___|
-                                                              v1.0
-```
+
 
 # AcroStrike
 
@@ -308,9 +301,9 @@ AcroStrike is part of the **Acro Empire** — a suite of security and developmen
 
 | Tool | Description |
 |------|-------------|
-| [**AcroMap**](https://github.com/AcroEmpire/AcroMap) | Network mapping and visualization |
-| [**AcroProbe**](https://github.com/AcroEmpire/AcroProbe) | Infrastructure probing and recon |
-| [**AcroStrike**](https://github.com/AcroEmpire/AcroStrike) | VAPT scanner with zero false positives |
+| [**AcroMap**](https://github.com/acro777x/acromap) | Network mapping and visualization |
+| [**AcroProbe**](https://github.com/acro777x/AcroProbe) | Infrastructure probing and recon |
+| [**AcroStrike**](https://github.com/acro777x/AcroStrike) | VAPT scanner with zero false positives |
 
 ---
 
