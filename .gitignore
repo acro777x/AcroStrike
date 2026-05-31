@@ -1,0 +1,20 @@
+# AcroStrike Output
+acrostrike_*/
+
+# Evidence files
+evidence/
+js_files/
+pages/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.log
