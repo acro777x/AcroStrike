@@ -1,6 +1,6 @@
 <div align="center">
 
-![AcroStrike Banner](acro77x.jpg)
+![AcroStrike Banner](acro_empire_strike.png)
 
 ```
     ___                    ____  _        _ _        
