@@ -3,7 +3,7 @@
 ![AcroStrike Banner](acro_empire_strike.png)
 
 
-```
+
 
 # AcroStrike v2.0
 
